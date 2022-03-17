@@ -1,0 +1,1 @@
+{"version":3,"file":"ing-test.js","sourceRoot":"","sources":["../../src/ing-test.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,cAAc,CAAC;AAEvC,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,UAAU,EAAE,OAAO,CAAC,CAAC","sourcesContent":["import { IngTest } from './IngTest.js';\n\nwindow.customElements.define('ing-test', IngTest);\n"]}

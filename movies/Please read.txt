@@ -1,0 +1,1 @@
+There's a bug, you have to input multiple letters for the result to show. I also deleted the node_modules since the file exceeds 60MB
